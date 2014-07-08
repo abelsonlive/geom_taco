@@ -9,7 +9,7 @@ ggplot(iris) + aes(meat = Species, salsa = Sepal.Length) + geom_taco()
 
 ```r
 library("devtools")
-install_github("geomtaco", "csv")
+install_github("geom_taco", "tlevine")
 ```
 
 Windows users also must first install
